@@ -30,6 +30,51 @@ body{
   border: solid 0.5px #cbc3c3;
   display: inline-block;
 }
+#punto_c2a{
+  width: 320px;
+  background-color: #7adaa5;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  border: solid 0.5px #cbc3c3;
+  display: inline-block;
+}
+#punto_c2b{
+  width: 320px;
+  background-color: #239ba7;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  border: solid 0.5px #cbc3c3;
+  display: inline-block;
+}
+#punto_c2c{
+  width: 320px;
+  background-color: #ececbb;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  border: solid 0.5px #cbc3c3;
+  display: inline-block;
+}
+#punto_c2d{
+  width: 320px;
+  background-color: #e1aa36;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  border: solid 0.5px #cbc3c3;
+  display: inline-block;
+}
+#punto_c2e{
+  width: 320px;
+  background-color: #8aa624;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  border: solid 0.5px #cbc3c3;
+  display: inline-block;
+}
 .card img{
   display: block;
   max-height: 280px;
