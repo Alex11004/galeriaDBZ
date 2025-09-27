@@ -8,6 +8,7 @@ body{
   font-family: "Montserrat", sans-serif;
   background-image: url(characters/dragon-ball-landscape-scene-background-free-vector.jpg);
   background-position: center;
+  background-size: cover;
 }
 .contenedor{
   max-width: 1200px;
