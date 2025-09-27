@@ -6,6 +6,7 @@
 }
 body{
   font-family: "Montserrat", sans-serif;
+  background-color: rgba(255, 0, 0, 0.4)
 }
 .contenedor{
   max-width: 1200px;
