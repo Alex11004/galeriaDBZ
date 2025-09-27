@@ -21,6 +21,15 @@ body{
   border: solid 0.5px #cbc3c3;
   display: inline-block;
 }
+#punto_c1{
+  width: 320px;
+  background-color: #6E8CFB;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  border: solid 0.5px #cbc3c3;
+  display: inline-block;
+}
 .card img{
   display: block;
   max-height: 280px;
