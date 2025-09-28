@@ -88,6 +88,12 @@ body{
   background: radial-gradient(#ff0000, #9ff4ff, #000000);
 }
 
+#punto_c10 {
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  text-shadow: 5px 5px 0 gray;
+}
+
 .card img{
   display: block;
   max-height: 280px;
