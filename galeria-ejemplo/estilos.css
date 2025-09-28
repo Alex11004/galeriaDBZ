@@ -94,6 +94,10 @@ body{
   text-shadow: 5px 5px 0 gray;
 }
 
+#punto_c11 {
+font-family: cursive; 
+}
+
 .card img{
   display: block;
   max-height: 280px;
