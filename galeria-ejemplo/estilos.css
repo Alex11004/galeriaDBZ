@@ -94,8 +94,11 @@ body{
   text-shadow: 5px 5px 0 gray;
 }
 
-#punto_c11 {
-font-family: cursive; 
+#punto_c12 {
+  font-family: cursive;
+  font-size: 40px;
+  font-style: oblique;
+  font-weight: bold; 
 }
 
 .card img{
