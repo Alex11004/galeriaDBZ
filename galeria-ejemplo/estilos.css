@@ -79,6 +79,11 @@ body{
   border: solid 0.5px #cbc3c3;
   display: inline-block;
 }
+
+#punto_c8 {
+  background: linear-gradient(#000000, #fff64d, #598bff);
+}
+
 .card img{
   display: block;
   max-height: 280px;
