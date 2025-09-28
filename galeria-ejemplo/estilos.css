@@ -84,6 +84,10 @@ body{
   background: linear-gradient(#000000, #fff64d, #598bff);
 }
 
+#punto_c9 {
+  background: radial-gradient(#ff0000, #9ff4ff, #000000);
+}
+
 .card img{
   display: block;
   max-height: 280px;
